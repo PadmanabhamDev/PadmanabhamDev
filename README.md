@@ -45,8 +45,8 @@ I blend code quality with user-centric design to build solutions that **solve re
 
 ## 🎓 Education
 
-- 🎓 **B.Tech – NIST, Berhampur** (2016 – 2020)  
-- 🏫 **SRCHS School** (2014 – 2016)
+- 🎓 **B.Tech – National Institute of Science and Technology, Berhampur** (2016 – 2020)  
+- 🏫 **SRCHS School (State board)** (2014 – 2016)
 
 ---
 
@@ -80,7 +80,7 @@ I blend code quality with user-centric design to build solutions that **solve re
 
 ## 📜 Certifications
 
-🎯 Salesforce Certified Platform Developer I  
+🎯 Salesforce Certified Platform Developer I
 🎯 Salesforce Certified JavaScript Developer I  
 🎯 Salesforce Certified Administrator  
 🎯 Salesforce Certified Advanced Administrator  
