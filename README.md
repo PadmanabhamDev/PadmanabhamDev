@@ -80,7 +80,7 @@ I blend code quality with user-centric design to build solutions that **solve re
 
 ## 📜 Certifications
 
-🎯 Salesforce Certified Platform Developer I
+🎯 Salesforce Certified Platform Developer I  
 🎯 Salesforce Certified JavaScript Developer I  
 🎯 Salesforce Certified Administrator  
 🎯 Salesforce Certified Advanced Administrator  
